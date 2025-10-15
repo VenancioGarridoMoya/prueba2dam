@@ -15,6 +15,6 @@ int main() {
 
     // Mostrar el resultado
     printf("La suma de %d y %d es: %d\n", num1, num2, sum);
-
+    printf("Fin del programa.\n");
     return 0;
 }
