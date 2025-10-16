@@ -20,5 +20,6 @@ int main() {
         printf("El factorial de %d es: %llu\n", numero, factorial(numero));
     }
     printf("Fin del programa.\n");
+    printf("estoy en la rama\n");
     return 0;
 }
